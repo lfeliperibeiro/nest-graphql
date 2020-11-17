@@ -1,0 +1,10 @@
+{
+    "type": "postgres",
+    "host": "localhost",
+    "port": 5432,
+    "username": "feliperibeiro",
+    "password": "12144",
+    "database": "met_api",
+    "entities": ["dist/**/*.entity{.ts,.js}"],
+    "synchronize": true
+}
