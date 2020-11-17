@@ -4,7 +4,7 @@
     "port": 5432,
     "username": "feliperibeiro",
     "password": "12144",
-    "database": "met_api",
+    "database": "nest_api",
     "entities": ["dist/**/*.entity{.ts,.js}"],
     "synchronize": true
 }
