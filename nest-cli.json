@@ -1,7 +1,7 @@
-{
-  "collection": "@nestjs/schematics",
-  "sourceRoot": "src",
-  "compilerOptions": {
-    "plugins": ["@nestjs/graphql"]
-  }
+{  
+    "collection": "@nestjs/schematics",
+    "sourceRoot": "src",
+    "compilerOptions": {
+      "plugins": ["@nestjs/graphql"]
+    }
 }
